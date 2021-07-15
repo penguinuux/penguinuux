@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @penguinuux
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, HTML and CSS on Kenzie Academy Brazil
-- 💞️ I’m looking to collaborate on something inovator
+- 💞️ I’m looking to collaborate on something innovator and disruptive
+- :heavy_check_mark: The bigger objective: change the world!
 - 📫 Feel free to send a email to pabloadrianomc@gmail.com to contact me
 - :relaxed: Thanks to visit me! :pray:
 
