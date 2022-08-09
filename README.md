@@ -1,12 +1,3 @@
-<style>
-  .logo {
-    height: 35px;
-  }
-  .center {
-    text-align: center;
-  }
-</style>
-
 <header>
   <img src="./assets/github-header-image.png" alt="github-header" />
 </header>
@@ -34,17 +25,18 @@
 
 <h2>Technologies & Tools</h2>
 
-|                          | Stacks                                                                                                         | Description                          |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| **Highlighter**          | <img class="logo" src="https://skillicons.dev/icons?i=html,md&theme=light"  alt="HTLM, Markdown"/>             | HTML, Markdown                       |
-| **Styles**               | <img class="logo" src="https://skillicons.dev/icons?i=css,styledcomponents,materialui"/>                       | Css, StyledComponents, Material-UI   |
-| **languages**            | <img class="logo"  src="https://skillicons.dev/icons?i=js,ts,python"/>                                         | JavaScript, TypeScript, Python       |
-| **Frameworks/Libraries** | <img class="logo"  src="https://skillicons.dev/icons?i=react,redux,nodejs,express,flask,"/>                    | React, Redux, nodeJs, Express, Flask |
-| **SQL/NOSQL**            | <img class="logo"  src="https://skillicons.dev/icons?i=postgres,mongodb"/>                                     | Postgres, MongoDb                    |
-| **Tools**                | <img class="logo"  src="https://skillicons.dev/icons?i=docker,git,github"/>                                    | Docker, Git, Github                  |
-| **Deploy**               | <img class="logo"  src="https://skillicons.dev/icons?i=heroku"/> <img class="logo" src="./assets/vercel.svg"/> | Heroku, Vercel                       |
-| **Mockups**              | <img class="logo"  src="https://skillicons.dev/icons?i=figma"/>                                                | Figma                                |
+|                          | Stacks                                                                                | Description                          |
+| ------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------ |
+| **Highlighter**          | <img src="https://skillicons.dev/icons?i=html,md&theme=light"  alt="HTLM, Markdown"/> | HTML, Markdown                       |
+| **Styles**               | <img src="https://skillicons.dev/icons?i=css,styledcomponents,materialui"/>           | Css, StyledComponents, Material-UI   |
+| **languages**            | <img src="https://skillicons.dev/icons?i=js,ts,python"/>                              | JavaScript, TypeScript, Python       |
+| **Frameworks/Libraries** | <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,flask,"/>         | React, Redux, nodeJs, Express, Flask |
+| **SQL/NoSQL**            | <img src="https://skillicons.dev/icons?i=postgres,mongodb"/>                          | Postgres, MongoDb                    |
+| **Tools**                | <img src="https://skillicons.dev/icons?i=docker,git,bash,github"/>                    | Docker, Git, Bash, Github            |
+| **Deploy**               | <img src="https://skillicons.dev/icons?i=heroku,vercel"/>                             | Heroku, Vercel                       |
+| **Mockups**              | <img src="https://skillicons.dev/icons?i=figma"/>                                     | Figma                                |
+| **O.S.**                 | <img src="https://skillicons.dev/icons?i=linux">                                      | Linux                                |
 
-<div class="center">
+<div style="text-align: center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=irtwzovgou4czbzxwgqfnquxh&cover_image=true&theme=default"/>
 </div>
