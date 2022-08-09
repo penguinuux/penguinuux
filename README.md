@@ -2,9 +2,12 @@
   <img src="./assets/github-header-image.png" alt="github-header" />
 </header>
 
-<p> Here you can find me: </p>
+---
 
-<div>
+<h2>A little about me</h2>
+<p>Interesting, fun and good chatter. I recognize the time to work and have fun. Lover of technology, good books and animals.</p>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/pabloadrianomaximo/" target="_blank">
     <img src="https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
@@ -23,7 +26,7 @@
 </div>
 <br>
 
-<h2>Technologies & Tools</h2>
+<h2>My skill set</h2>
 
 |                          | Stacks                                                                                | Description                          |
 | ------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------ |
@@ -37,6 +40,15 @@
 | **Mockups**              | <img src="https://skillicons.dev/icons?i=figma"/>                                     | Figma                                |
 | **O.S.**                 | <img src="https://skillicons.dev/icons?i=linux">                                      | Linux                                |
 
-<div style="text-align: center">
+<br/>
+<div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=irtwzovgou4czbzxwgqfnquxh&cover_image=true&theme=default"/>
 </div>
+
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=penguinuux&&style=flat-square" align="center" />
+</div>
+<br/>
+
+---
